@@ -66,12 +66,12 @@ The project uses the following libraries:
 - matplotlib
 - scikeras 
 - scikit-learn
-  - Pipeline, GridSearchCV, cross_val_score
-  - ColumnTransformer, TransformedTargetRegressor
-  - StandardScaler, RobustScaler, OneHotEncoder
-  - SVR, RandomForestRegressor, GradientBoostingRegressor, AdaBoostRegressor, VotingRegressor, DecisionTreeRegressor, RandomForest
-  - mean_absolute_error, r2_score, mean_squared_error, root_mean_square_error
+  -  GridSearchCV
   - RFE
+  - StandardScaler
+  - XGBoost Regressor, AdaBoostRegressor, VotingRegressor, DecisionTreeRegressor, RandomForest, SVR, RandomForestRegressor, GradientBoostingRegressor
+  - mean_absolute_error, r2_score, mean_squared_error, root_mean_square_error
+    
 - xgboost
 - catboost
 - shap

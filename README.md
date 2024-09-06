@@ -15,7 +15,7 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Project Overview
-This project is part of a dissertation focused on predicting moisture content using various machine learning models.
+This project focuses on predicting moisture content in food drying processes using machine learning (ML) and deep learning (DL) models to improve efficiency, reduce energy consumption, and ensure consistent product quality.
 
 ## Data
 The datasets used in this project are as follows:
